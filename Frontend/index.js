@@ -82,9 +82,9 @@ function deleteItem(id) {
     }
 }
 
-// Fetch items when page loads (optional)
+ //Fetch items when page loads 
 //$(document).ready(() => {
-  //  fetchItems(); // Fetch items on page load
+  //fetchItems(); // Fetch items on page load
 
     
     $('#getDataButton').click(() => {
